@@ -33,6 +33,7 @@ webpack 内有四个核心概念:
 * 性能优化
 * 热更新原理
 * Scaffolding
+* webpack-chain
 
 #### 参考
 [示例工程 simple-webpack](https://github.com/gyh9457/simple-webpack)
