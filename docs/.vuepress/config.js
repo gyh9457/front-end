@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/front-end/dist/',
+  base: '/front-end/',
   title: 'front-end',
   description: 'a personal blog',
   dest: 'dist',
