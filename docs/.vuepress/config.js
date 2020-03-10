@@ -81,6 +81,9 @@ module.exports = {
           collapsable: false,
           children: [
             '/engineering/think/specification',
+            '/engineering/think/如何开发一个ui组件库',
+            '/engineering/think/后台管理系统开发总结',
+            '/engineering/think/工具库的设计与开发',
           ]
         },
         {

@@ -1,4 +1,4 @@
-## 工程规范自动化
+### 工程规范自动化
 一个项目通常由多人合作完成，而每个人的代码风格、开发习惯并不相同，所以需要一套规范来约束，以保证代码格式的统一，排除一些常见的错误，使项目更加整洁、易读。
 
 可以从以下几个方面进行约束：
@@ -7,7 +7,6 @@
 * prettier
 * git commit
 
-## 实践
 ### 创建项目
 新建文件 `specification`
 
@@ -183,7 +182,7 @@ trim_trailing_whitespace = true
   yarn run version
 ```
 
-## 参考
+### 参考
 [示例工程 specification](https://github.com/gyh9457/specification)
 
 [eslint](https://eslint.org/)
