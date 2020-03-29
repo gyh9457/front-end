@@ -91,6 +91,7 @@ module.exports = {
           collapsable: false,
           children: [
             '/engineering/grow-all-cli/',
+            '/engineering/grow-all-cli/create',
           ]
         },
       ]
