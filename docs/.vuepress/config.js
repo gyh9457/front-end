@@ -2,7 +2,7 @@ module.exports = {
   base: '/front-end/',
   title: 'front-end',
   description: 'a personal blog',
-  dest: 'dist',
+  dest: 'front-end',
   themeConfig: {
     lastUpdated: 'Last Updated',
     repo: 'https://github.com/gyh9457/front-end/',
