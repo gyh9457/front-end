@@ -32,6 +32,13 @@ module.exports = {
           ]
         },
         {
+          title: '性能优化',
+          collapsable: false,
+          children: [
+            '/note/perf/local-img.md'
+          ]
+        },
+        {
           title: '历史笔记',
           collapsable: false,
           children: [
